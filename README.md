@@ -1,6 +1,8 @@
 ># Java Collections: Dominando Listas Sets e Mapas
 >## Repositório para guardar os arquivos do curso Java Collections Dominando Listas Sets e Mapas
 
+[Documentação JAVA](https://docs.oracle.com/javase/8/docs/api/)
+
 ### Preparando Ambiente em todos SOs
 
 É importante que você tenha a JDK instalado em sua máquina para que possa testá-los localmente e também para os demais exercícios propostos.
