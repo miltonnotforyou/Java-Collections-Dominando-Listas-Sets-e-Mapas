@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6482fb32-94b1-4024-a329-c231e9ddab62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/TestaCurso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/TestaListExercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/TestaCurso2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,27 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestaListExercicio">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestaCurso2">
     <configuration name="TestaCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaCurso" />
+      <module name="Gerenciador-de-Cursos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaCurso2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaCurso2" />
       <module name="Gerenciador-de-Cursos" />
       <extension name="coverage">
         <pattern>
@@ -78,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestandoListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestandoListas" />
-      <module name="Gerenciador-de-Cursos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestandoListasExercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestandoListasExercicios" />
       <module name="Gerenciador-de-Cursos" />
@@ -100,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaCurso2" />
         <item itemvalue="Application.TestaListExercicio" />
         <item itemvalue="Application.TestaCurso" />
         <item itemvalue="Application.TestaListaDeAula" />
         <item itemvalue="Application.TestandoListasExercicios" />
-        <item itemvalue="Application.TestandoListas" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678278087287</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adicionando arquivos">
+      <created>1678360783702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678360783702</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
