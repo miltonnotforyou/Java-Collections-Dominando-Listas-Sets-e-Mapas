@@ -1,12 +1,10 @@
 package br.com.alura;
 
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class TestaAlunos {
     public static void main(String[] args) {
-     Set<String> alunos = new HashSet<>();
+     Collection<String> alunos = new HashSet<>(); //- > você pode colocar a interface mãe Collection ou a filha HashSet
      alunos.add("Rodrigo Turini");
      alunos.add("Alberto Souza");
      alunos.add("Nico Steppat");
@@ -31,5 +29,8 @@ public class TestaAlunos {
         });
 
      System.out.println(alunos);
+
+     List<String> alunosEmLista = new ArrayList<>(alunos);
+
     }
 }
