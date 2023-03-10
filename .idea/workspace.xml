@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6482fb32-94b1-4024-a329-c231e9ddab62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/TestaPerformance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaAlunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaAlunos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <recent name="br.com.alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaAlunos">
+  <component name="RunManager" selected="Application.TestaPerformance">
     <configuration name="TestaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaAlunos" />
       <module name="Gerenciador-de-Cursos" />
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaListaDeAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaListaDeAula" />
+    <configuration name="TestaPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaPerformance" />
       <module name="Gerenciador-de-Cursos" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaPerformance" />
         <item itemvalue="Application.TestaAlunos" />
         <item itemvalue="Application.TestaCurso2" />
         <item itemvalue="Application.TestaListExercicio" />
         <item itemvalue="Application.TestaCurso" />
-        <item itemvalue="Application.TestaListaDeAula" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678446982157</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Adicionando arquivos">
+      <created>1678447203570</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678447203570</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
