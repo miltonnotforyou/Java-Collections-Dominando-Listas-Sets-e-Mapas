@@ -1,6 +1,9 @@
 ># Java Collections: Dominando Listas Sets e Mapas
 >## Repositório para guardar os arquivos do curso Java Collections Dominando Listas Sets e Mapas
 
+![image](https://user-images.githubusercontent.com/67373586/224298538-1be851b8-1882-49ff-a8f1-d527c6f8ed35.png)
+
+
 [Documentação JAVA](https://docs.oracle.com/javase/8/docs/api/)
 
 ### Preparando Ambiente em todos SOs
