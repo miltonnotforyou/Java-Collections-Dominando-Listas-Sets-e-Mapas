@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6482fb32-94b1-4024-a329-c231e9ddab62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/QualColecaoUsar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/TestaBuscaAlunosNoCurso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Aula.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaAlunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaAlunos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaCurso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaCurso2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaCurso2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaCursoComAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaCursoComAluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaListaDeAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaListaDeAula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestandoListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestandoListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +50,7 @@
       <recent name="br.com.alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaCursoComAluno">
+  <component name="RunManager" selected="Application.TestaBuscaAlunosNoCurso">
     <configuration name="TestaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaAlunos" />
       <module name="Gerenciador-de-Cursos" />
@@ -72,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaCurso2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaCurso2" />
+    <configuration name="TestaBuscaAlunosNoCurso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaBuscaAlunosNoCurso" />
       <module name="Gerenciador-de-Cursos" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
         <item itemvalue="Application.TestaCursoComAluno" />
         <item itemvalue="Application.TestaAlunos" />
         <item itemvalue="Application.TesteEmptySet" />
         <item itemvalue="Application.TestaPerformance" />
-        <item itemvalue="Application.TestaCurso2" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678451201889</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adicionando arquivos">
+      <created>1678708370675</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678708370675</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
