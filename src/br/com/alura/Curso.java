@@ -9,7 +9,7 @@ public class Curso {
 	private String instrutor;
 	private List<Aula> aulas = new LinkedList<Aula>();
 	private Set<Aluno> alunos = new HashSet<>();
-	private Map<Integer, Aluno> matriculaParaAluno = new HashMap<>();
+	private Map<Integer, Aluno> matriculaParaAluno = new LinkedHashMap<>(); //HashMap<>(); Hashtable<>()
 
 	public Curso(String nome, String instrutor) {
 		this.nome = nome;
@@ -56,6 +56,8 @@ public class Curso {
 	}
 
 	public Aluno buscaMatriculado(int numero) {
+		if (!matriculaParaAluno.containsKey(numero))
+			throw new NoSuchElementException();
 		return matriculaParaAluno.get(numero);
 	}
 }
