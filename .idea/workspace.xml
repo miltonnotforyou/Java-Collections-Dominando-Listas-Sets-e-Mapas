@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6482fb32-94b1-4024-a329-c231e9ddab62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Exercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaBuscaAlunosNoCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaBuscaAlunosNoCurso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,20 @@
       <recent name="br.com.alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaBuscaAlunosNoCurso">
+  <component name="RunManager" selected="Application.Exercicio">
+    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.Exercicio" />
+      <module name="Gerenciador-de-Cursos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaAlunos" />
       <module name="Gerenciador-de-Cursos" />
@@ -90,19 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.TestaPerformance" />
-      <module name="Gerenciador-de-Cursos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.alura.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TesteEmptySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.TesteEmptySet" />
       <module name="Gerenciador-de-Cursos" />
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio" />
         <item itemvalue="Application.TestaBuscaAlunosNoCurso" />
         <item itemvalue="Application.TestaCursoComAluno" />
         <item itemvalue="Application.TestaAlunos" />
         <item itemvalue="Application.TesteEmptySet" />
-        <item itemvalue="Application.TestaPerformance" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678792343120</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adicionando arquivos">
+      <created>1678792822667</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678792822667</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
